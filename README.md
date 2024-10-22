@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **harsh2125gupta@gmail.com**
 
-- ⚡ Fun fact **I Think i am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/harsh harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsh harsh" height="30" width="40" /></a>
