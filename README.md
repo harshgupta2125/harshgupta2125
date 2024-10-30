@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgupta2125&label=Profile%20views&color=0e75b6&style=flat" alt="harshgupta2125" /> </p>
 
 - 🌱 I’m currently learning **C++ and Backend for websites**
-
+- 📃 See the Portfolio **https://harshgupta2125.github.io/my_portfolio/**
 - 📫 How to reach me **harsh2125gupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,8 +27,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgupta2125&" alt="harshgupta2125" /></p>
 
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -37,4 +35,3 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
-</details>
