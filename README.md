@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgupta2125&label=Profile%20views&color=0e75b6&style=flat" alt="harshgupta2125" /> </p>
 
 - 🌱 I’m currently learning **C++ and Backend for websites**
-- 📃 See the Portfolio **https://harshgupta2125.github.io/my_portfolio/**
+- 📃 See the Portfolio **<a href="https://harshgupta2125.github.io/my_portfolio"> Portfolio</a>**
 - 📫 How to reach me **harsh2125gupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
