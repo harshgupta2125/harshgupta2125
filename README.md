@@ -35,3 +35,5 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
+
+<div>[![An image of @harshgupta21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshgupta21)](https://holopin.io/@harshgupta21)</div>
