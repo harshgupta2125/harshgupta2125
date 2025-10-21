@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🖥️ I’m currently enhancing my skills in **Backend Development** (Node.js, Express) and **Full-Stack Web Development**.
-- 🌱 I’m learning **C++** for performance-critical applications and exploring modern web technologies for **responsive and dynamic web apps**.
+- 🌱 I’m learning **Python** for performance-critical applications and exploring modern web technologies for **responsive and dynamic web apps**.
 - 🔗 Check out my portfolio: [Portfolio](https://itharsh.vercel.app)
 - 📧 You can reach me at: **harsh2125gupta@gmail.com**
 - 💻 Passionate about **building scalable applications**, **optimizing performance**, and contributing to **open-source projects**.
@@ -20,14 +20,14 @@
 
 | **Category**             | **Technologies**                                                                                              |
 |--------------------------|----------------------------------------------------------------------------------------------------------------|
-| **Languages**            | C, C++, JavaScript (ES6+), Python                                                                                |
+| **Languages**            | Java, JavaScript (ES6+), Python                                                                                |
 | **Web Development**      | HTML5, CSS3, JavaScript (Vanilla & React.js), Next.js, Bootstrap                                              |
-| **Backend**              | Node.js, Express.js, RESTful APIs, WebSocket                                                                   |
-| **Databases**            | MySQL, PostgreSQL, MongoDB                                                                                     |
+| **Backend**              | Python, RESTful APIs, WebSocket                                                                   |
+| **Databases**            | MySQL, MongoDB                                                                                     |
 | **Version Control**      | Git, GitHub, GitLab                                                                                             |
-| **Tools & Environment**  | VS Code, Docker, Postman, Nginx, Webpack, Bash                                                                 |
+| **Tools & Environment**  | VS Code, Docker, Postman, Webpack, Bash                                                                 |
 | **Deployment**           | Heroku, Vercel, Netlify, AWS                                                                                   |
-| **DevOps**               | Docker, CI/CD (GitHub Actions, Jenkins)                                                                        |
+| **DevOps**               | Docker, CI/CD (GitHub Actions)                                                                        |
 | **Operating Systems**    | Linux (Ubuntu, Debian), Windows                                                                                 |
 
 ---
