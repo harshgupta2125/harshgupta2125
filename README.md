@@ -81,8 +81,7 @@ I am an active contributor in **GirlScript Summer of Code** and have earned the 
   </a>
 </p>
 
-[![Harsh Gupta's Holopin Profile](https://holopin.me/harshgupta21)](https://holopin.io/@harshgupta21)
-
+[![An image of @harshgupta21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshgupta21)](https://holopin.io/@harshgupta21)
 ---
 
 ### 💬 Fun Fact:
