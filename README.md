@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🖥️ I’m currently enhancing my skills in **Backend Development** (Node.js, Express) and **Full-Stack Web Development**.
+- 🖥️ I’m currently enhancing my skills in **Backend Development** and **Full-Stack Web Development**.
 - 🌱 I’m learning **Python** for performance-critical applications and exploring modern web technologies for **responsive and dynamic web apps**.
 - 🔗 Check out my portfolio: [Portfolio](https://itharsh.vercel.app)
 - 📧 You can reach me at: **harsh2125gupta@gmail.com**
@@ -21,7 +21,7 @@
 | **Category**             | **Technologies**                                                                                              |
 |--------------------------|----------------------------------------------------------------------------------------------------------------|
 | **Languages**            | Java, JavaScript (ES6+), Python                                                                                |
-| **Web Development**      | HTML5, CSS3, JavaScript (Vanilla & React.js), Next.js, Bootstrap                                              |
+| **Web Development**      | HTML5, CSS3, JavaScript (Vanilla & React.js), Bootstrap                                              |
 | **Backend**              | Python, RESTful APIs, WebSocket                                                                   |
 | **Databases**            | MySQL, MongoDB                                                                                     |
 | **Version Control**      | Git, GitHub, GitLab                                                                                             |
