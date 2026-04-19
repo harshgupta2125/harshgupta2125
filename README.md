@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Harsh Gupta</h1>
-<h3 align="center">AI-Augmented Full-Stack Developer | Systems Architect | Open-Source Contributor</h3>
+<h3 align="center">Python Backend Developer | Systems Architect | Open-Source Contributor</h3>
 
 <p align="center">
   <img align="right" alt="coder vibe" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -8,9 +8,9 @@
 
 ### 🚀 About Me & How I Build
 
-- 🖥️ I am a BCA student specializing in **Backend Architecture**, **DevSecOps**, and **Full-Stack Web Development**.
-- ⚡ **My Workflow:** I am an AI-augmented builder. I focus heavily on system design, database architecture, and complex logic, utilizing AI as a pair-programmer to rapidly prototype and ship production-ready code faster than traditional methods.
-- 🧩 **The Problem Solver:** When AI hallucinates or hits a wall, I don't get stuck. I thrive on digging into official documentation, navigating developer communities, and reverse-engineering open-source codebases to find the exact solution.
+- 🖥️ **What I Do:** I am a BCA student specializing in **Backend Architecture**, **API Development (FastAPI/Django)**, and robust Python systems.
+- ⚡ **My Workflow:** I focus heavily on system design, database architecture, and complex logic. I utilize modern developer tooling and AI-assistance to rapidly prototype, optimize, and ship production-ready code faster than traditional methods.
+- 🧩 **The Problem Solver:** When I hit a wall, I thrive on digging into official documentation, navigating developer communities, and reverse-engineering open-source codebases to find the exact, most optimal solution.
 - 🔗 Check out my portfolio: [Portfolio](https://itharsh.vercel.app)
 - 📧 Reach me at: **harsh2125gupta@gmail.com**
 
@@ -33,10 +33,11 @@
 
 ### 🏆 Open Source & Contributions
 
-I am a strong believer in building in public and giving back to the community. I actively contribute to open-source projects, which allows me to collaborate with other developers and navigate large, complex codebases.
+I am a strong believer in building in public and giving back to the community. I actively navigate and contribute to large, complex codebases.
 
-- 🌍 **Active Contributor:** I regularly submit pull requests to open-source repositories and tools. 
-- 🎯 **GSSoC 2024:** Active contributor in GirlScript Summer of Code.
+- 🌍 **Active Contributor:** I regularly submit high-quality pull requests to major open-source repositories (like OpenLibrary).
+- 🎯 **Hacktoberfest 2025:** Recognized globally as a **Top 500 Contributor**.
+- 🎯 **GirlScript Summer of Code (GSSoC):** Ranked as a **Top 150 Contributor** (2024 Extended) and actively selected for the **2026** cohort.
 
 <p align="left">
   <a href="https://gssoc.girlscript.tech/leaderboard">
@@ -70,14 +71,17 @@ I am a strong believer in building in public and giving back to the community. I
 
 Whether it's discussing modern web architecture, DevSecOps, or collaborating on a new open-source tool, my inbox is always open.
 
-<p align="left">
+<p align="center">
   <a href="mailto:harsh2125gupta@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email_Me-harsh2125gupta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/harshgupta2125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-  <a href="https://instagram.com/harsh.gupta0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh.gupta0" height="30" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/guptaharsh000" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/harshgupta2125" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  </a>
+  </a>
 </p>
