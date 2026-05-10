@@ -2,9 +2,11 @@
 <h3 align="center">Python Backend Developer | Systems Architect | Open-Source Contributor</h3>
 
 <p align="center">
-  <img align="right" alt="coder vibe" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-  <img src="https://komarev.com/ghpvc/?username=harshgupta2125&label=Profile%20Views&color=0e75b6&style=flat" alt="harshgupta2125" />
+  <img align="center" alt="coder vibe" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </p>
+<br>
+<a href="https://u8views.com/github/harshgupta2125"><img src="https://u8views.com/api/v1/github/profiles/150253719/views/day-week-month-total-count.svg"></a>
+
 
 ### 🚀 About Me & How I Build
 
